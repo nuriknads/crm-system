@@ -18,3 +18,4 @@ class ClientSerializer(serializers.ModelSerializer):
     class Meta:
         model = Client
         fields = ['id', 'name', 'email', 'phone', 'company', 'created_at', 'deals', 'tasks']
+# Commit 3 — 2021-02-07
