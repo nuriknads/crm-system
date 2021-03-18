@@ -20,3 +20,4 @@ class ClientSerializer(serializers.ModelSerializer):
         fields = ['id', 'name', 'email', 'phone', 'company', 'created_at', 'deals', 'tasks']
 # Commit 3 — 2021-02-07
 # Commit 12 — 2021-03-06
+# Commit 16 — 2021-03-18
