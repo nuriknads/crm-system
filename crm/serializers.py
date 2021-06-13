@@ -26,3 +26,4 @@ class ClientSerializer(serializers.ModelSerializer):
 # Commit 35 — 2021-05-14
 # Commit 43 — 2021-06-07
 # Commit 44 — 2021-06-10
+# Commit 45 — 2021-06-13
